@@ -1,0 +1,966 @@
+#Word Types: 963
+#Word Tokens: 3900
+#Search Hits: 0
+1	350	sze	
+2	260	gur	gur	260	
+3	162	szu	sza	12	sza-a	2	sza-at	3	szi	27	szu	98	szu-ut	20	
+4	115	dumu	dumu	104	dumu-a	1	dumu-dumu	1	dumu-sa	9	
+5	85	ku3-babbar	ku3-babbar	85	
+6	76	gin2	gin2	76	
+7	65	gu4	ab2	10	amar	8	amar-nita	8	gu4	39	
+8	63	gur-sag-gal2	
+9	63	udu	kir11	1	sila4	20	u8	1	udu	39	udu-nita	2	
+10	56	GAN2	GAN2	56	
+11	54	sa10	sa10	53	sa10-me	1	
+12	54	|SZU+LAGAB|	|SZU+LAGAB|	54	
+13	53	ma-na	ma-na	53	
+14	48	imhur	im-hur	48	
+15	36	a-na	
+16	32	mu	
+17	32	siki	siki	32	
+18	26	ansze	ansze	5	ansze-libir	3	ansze-libir-nita	16	eme3-libir	2	
+19	26	masz2	masz2	13	ud5	13	
+20	24	szu-ma-ma	
+21	24	zu-zu	
+22	24	|PU3.SZA|-ru-um	
+23	21	u3	
+24	19	PAP	
+25	19	tur	
+26	18	dug	
+27	18	iti	iti	18	
+28	17	SIG2-GAN	SIG2-GAN	17	
+29	17	gu2	
+30	17	i3-li2-dan	
+31	16	i3-lu-lu	
+32	16	sze-ba	sze-ba	16	
+33	16	u2-KA-KA	
+34	15	abba2	abba2	11	abba2-abba2	2	abba2-bu-tum	1	abba2-bu-ut	1	
+35	15	ba-an	ba-an	15	
+36	15	e2	e2	12	e2-ba	1	e2-ti	1	e2-ti-su	1	
+37	14	er3-e-um	
+38	13	i-sa-ru-um	
+39	12	ARAD2	ARAD	1	ARAD2	11	
+40	12	da-da	
+41	12	isz-ki-nu-su	
+42	11	bi2-bi2	
+43	11	da-di3	
+44	11	dingir-su-kal	
+45	11	i-bi2-bi2	
+46	11	i3	
+47	11	in	
+48	11	szu-esz18-dar	
+49	10	dingir-kal	
+50	10	esz2-gid2	esz2-gid2	10	
+51	10	i-da-dingir	
+52	10	i3-nun	
+53	10	kusz	
+54	10	mu-mu	
+55	10	na-bi2-um	
+56	10	sar	sar	10	
+57	10	szah2	
+58	10	{gesz}apin	{gesz}apin	10	
+59	9	dingir-na-s,i2-ir	
+60	9	dumu-munus	dumu-munus	9	
+61	9	esz18-dar-nu-id	
+62	9	geme2	geme2	8	geme2-su2-ni	1	
+63	9	gi	
+64	9	hubullum	hu-bu-lum	9	
+65	9	ku-ru-ub-dingir-dingir	
+66	9	numun	numun	9	
+67	9	szim	
+68	9	szu-i3-li2-su	
+69	9	tug2	tug2	9	
+70	9	zi3	zi3	5	zi3-gu	4	
+71	9	{d}utu-e2	
+72	8	amar-munus	
+73	8	da-ba-lum	
+74	8	dubsar	dub-sar	8	
+75	8	gal	
+76	8	si-hur-sag	
+77	8	su-ni-um	
+78	8	{d}tiszpak-kum	
+79	8	|PU3.SZA|-ma-ma	
+80	7	UD-kum	
+81	7	bu3-bu3	
+82	7	dam-gar3	dam-gar3	7	
+83	7	i-ku8-num2	
+84	7	i-za-mar	
+85	7	i3-li2-isz-ta2-kal2	
+86	7	sa2-lim-a-hu	
+87	7	sza3	
+88	7	szu-gu-bu3	
+89	7	u2	
+90	7	usium	u-s,i-um	7	
+91	7	zu-na-num2	
+92	6	ama-tu	
+93	6	da-wi-ir	
+94	6	esz18-dar-qar	
+95	6	gal-zu	
+96	6	hu-li-um	
+97	6	i3-li2-sa-liq	
+98	6	isz-ma2-dingir	
+99	6	kir-ba-num2	
+100	6	ku-ku	
+101	6	kunga2	kunga2	6	
+102	6	lu2	
+103	6	ma-szum	
+104	6	szabra	szabra	6	
+105	6	um-mi-mi	
+106	6	za-wi	
+107	5	a-bi2-bi2	
+108	5	a-da-gal	
+109	5	a-hu-hu	
+110	5	ba-ba	
+111	5	dub	
+112	5	en-bu-dingir	
+113	5	er3-ra-ra	
+114	5	gurusz	gurusz	5	
+115	5	i-lu5-dingir	
+116	5	i-zi-num2	
+117	5	i3-li2-en-num2	
+118	5	im6-ta2-lik	
+119	5	isz-ki-ki	
+120	5	kur	
+121	5	lah5	i3-lah5	5	
+122	5	ma-an-sa-nin-su	
+123	5	ma-ma-a-zu	
+124	5	sipa	sipa	4	sipa-sipa	1	
+125	5	szu-na-na	
+126	5	tam2-ta2-lik	
+127	5	u5	
+128	5	{gesz}gigir	{gesz}gigir2	5	
+129	5	{gesz}sze-du10	
+130	5	{munus}balag-di	
+131	4	a-ha-tum	
+132	4	a-hu-su4-nu	
+133	4	a-li-li	
+134	4	ansze-libir-munus	
+135	4	ba-ra-tum	
+136	4	be-li2	
+137	4	be-li2-ba-lik	
+138	4	da-qum	
+139	4	dingir	
+140	4	dingir-a-zu	
+141	4	e2-a	
+142	4	e2-a-ra-bi2	
+143	4	en-na-num2	
+144	4	ensi2	ensi2	4	
+145	4	halut	ha-lu-ut	4	
+146	4	hu-bi-lum	
+147	4	i3-li2-mah-ri2	
+148	4	i3-lu-da-nu	
+149	4	i3-szah2	
+150	4	im	
+151	4	la-e-bu3	
+152	4	la2-ia3	la2-ia3	4	
+153	4	ma-ma-sa-ra-at	
+154	4	mar	
+155	4	mi-lu-sa	
+156	4	na-na	
+157	4	nu-banda3	nu-banda3	4	
+158	4	pa5	
+159	4	ri2-ig-mu-um	
+160	4	si-da-ru	
+161	4	ta2-ad-lul-tum	
+162	4	ta2-asz2-qi3-tum	
+163	4	u-bil	
+164	4	u2-za-zum	
+165	4	ug3-IL2	ug3-IL2	4	
+166	4	warassuni	ARAD2-su2-ni	4	
+167	4	zi-lu-lum	
+168	4	{munus}asz2-gar3	
+169	3	NI	
+170	3	a-bi2-su	
+171	3	a-dam-u	
+172	3	a-li-a-hu	
+173	3	a3-ra-ab	
+174	3	a3-tum	
+175	3	ad-mar	
+176	3	agade	a-ga-de3{ki}	3	
+177	3	ba-ha-ru-um	
+178	3	ba-lu-sa	
+179	3	be-li2-NE	
+180	3	be-li2-a-ar	
+181	3	bu-bu	
+182	3	da-ba-al{ki}	
+183	3	da-ru-ru	
+184	3	dak-ra-tu	
+185	3	dingir-ba-ni	
+186	3	dingir-ki2-ma-at	
+187	3	dingir-tab-ba	
+188	3	diri-um	
+189	3	du8	i3-du8	2	szu-du8	1	
+190	3	e-ra-am-gi	
+191	3	er3-da-bu3	
+192	3	gal-gal	
+193	3	gi-um	
+194	3	ha-nu-nu	
+195	3	i-mi-dingir	
+196	3	i-tu-tu	
+197	3	ib-ri2-me{ki}	
+198	3	ih-zu-zum	
+199	3	iq-bi2-a-ni	
+200	3	iri	iri{ki}	3	
+201	3	it,-bu-hu	
+202	3	ku-bu-tum	
+203	3	kusz3	
+204	3	ma-asz2-tum	
+205	3	ma-ga-ga	
+206	3	mer	
+207	3	muszen-du3	muszen-du3	3	
+208	3	nig2-ar3-ra	
+209	3	niga	
+210	3	pu3-i3-li2	
+211	3	pu3-su-gi	
+212	3	pu3-{d}utu	
+213	3	qa2-at-num2	
+214	3	saga-tum	
+215	3	si-ni-sa	
+216	3	simti	si-im-ti	3	
+217	3	su-ba-ri2-tum	
+218	3	su4-be-li2	
+219	3	szesz	szesz	3	
+220	3	szid	
+221	3	szu-an-tum	
+222	3	ta-ta	
+223	3	tu-da-szar-li-bi2-isz	
+224	3	tu3-kul2-tum	
+225	3	u-ba-ru-um	
+226	3	u-bar-tum	
+227	3	u2-da-tum	
+228	3	um-mi-{d}utu	
+229	3	wu-zum-tum	
+230	3	{gesz}ildag3	
+231	3	{gesz}ur3	
+232	2	KU	
+233	2	ME-{d}nisaba	
+234	2	a-bu3-sa-du2	
+235	2	a-hu-mu-bi2	
+236	2	a-hu-su-nu	
+237	2	a-li-su4-nu	
+238	2	a-li-tu-ru-uh	
+239	2	a-ma-lim	
+240	2	a-ma-ru-um	
+241	2	a-mu-ru-um	
+242	2	a-sa-sa	
+243	2	ansze-kunga2	
+244	2	ar-da-na-an{ki}	
+245	2	at-li	
+246	2	azlag	azlag2	2	
+247	2	ba-bi2	
+248	2	ba-sa-ri2-im	
+249	2	balag-di	
+250	2	bappir	bappir	2	
+251	2	be-li2-ba-ni	
+252	2	be-li2-du10	
+253	2	be-li2-gi	
+254	2	be-li2-li2	
+255	2	be-li2-sipa	
+256	2	be-li2-ur-sag	
+257	2	bu-na-um	
+258	2	bu-ra-ni-e	
+259	2	dam	
+260	2	dar-e-tum	
+261	2	dingir-al-su	
+262	2	dingir-du10	
+263	2	dingir-il-la-su2	
+264	2	diri-tum	
+265	2	du10-a-hi	
+266	2	e-da-da	
+267	2	e-dah-te-NE	
+268	2	e-zum	
+269	2	el-lum	
+270	2	en-na-na	
+271	2	en-na-nu	
+272	2	en-ni-ni	
+273	2	er3-e-bu3	
+274	2	esz18-dar-da-na-at	
+275	2	esz18-dar-dam-qa2-at	
+276	2	esz18-dar-tu3-kul2-ti	
+277	2	esznuna	isz-nun{ki}	2	
+278	2	ga-ga-da	
+279	2	gal-isz-du10	
+280	2	gal-sukkal	
+281	2	gal-zu-zu	
+282	2	gal5-la2	gal5-la2	2	
+283	2	gesz	
+284	2	gibil	
+285	2	gu2-nida	
+286	2	guru7	
+287	2	gusurraim	gu-sur-ra-im	1	ku-sur-ra-im	1	
+288	2	i-ba-li-is	
+289	2	i-ba-li2-is	
+290	2	i-di3-dingir	
+291	2	i-di3-{d}da-gan	
+292	2	i-mu-tum	
+293	2	i-ri2-sa-at	
+294	2	i-szar-li-bur	
+295	2	i-tur2-gi	
+296	2	i3-la-ak-nu-id	
+297	2	i3-li2-BAD	
+298	2	i3-li2-a-hi	
+299	2	i3-li2-bi-la-ni	
+300	2	i3-lu-dam-qu2	
+301	2	ibaszszi	i-ba-szi4	2	
+302	2	illik	i-li-ik	1	i-li-ku	1	
+303	2	im-ti-li-bur	
+304	2	ip-ti-dingir	
+305	2	isz-lam-gi	
+306	2	iszte	isz-te4	2	
+307	2	it-be-um	
+308	2	itma	it-ma-u3	1	it-ma2-u3	1	
+309	2	ki	
+310	2	ku-za-lu	
+311	2	kunga2-munus	
+312	2	la-gi-ip	
+313	2	lu-lu	
+314	2	lugal	
+315	2	lugal-da-di3	
+316	2	ma-ma	
+317	2	ma-ma-szu-at	
+318	2	ma-ma-um-mi	
+319	2	mar-ru-ut{ki}	
+320	2	maszgan	masz-ga-ni{ki}	1	masz-gan{ga}-im	1	
+321	2	me-me	
+322	2	muhurra'um	mu-hu-ra-um	1	mu-hur-ra-um	1	
+323	2	munu4	
+324	2	nar	
+325	2	ni-se11-e-ni-su	
+326	2	nin	nin-nin	2	
+327	2	ninda	
+328	2	nu-ni-tum	
+329	2	nu-ru-um	
+330	2	pu3-su-su	
+331	2	pu3-uz-ru-sa	
+332	2	pu3-{d}tiszpak	
+333	2	ra-um-tum	
+334	2	ri-ba-tum	
+335	2	ru-ba-tum	
+336	2	s,a-ab-tim	
+337	2	s,a-ba-at-ga-zu	
+338	2	sa-lu-lu	
+339	2	saga-dingir	
+340	2	si-da-ba	
+341	2	si-la-ba-at	
+342	2	si-ri-e	
+343	2	si-ti-ba	
+344	2	si-tum	
+345	2	si-wi-ra	
+346	2	sza-at-be-el3	
+347	2	sza-at-{d}tiszpak	
+348	2	sza3-du10	
+349	2	szagina	szagina	2	
+350	2	szitim	szitim	2	
+351	2	szu-i	
+352	2	szu-nigin2	
+353	2	szu-{d}isz-ha-ra	
+354	2	szubur{ki}	
+355	2	szum2	i3-na-szum2	1	szum2	1	
+356	2	ta2-asz2-ma2-tum	
+357	2	ta2-ku8-na	
+358	2	tab-ba-ba	
+359	2	tab6-si-ga	
+360	2	te-mi-tum	
+361	2	te-te	
+362	2	temen-na-dingir	
+363	2	tu-tu	
+364	2	u2-du-da	
+365	2	um-mi-du10	
+366	2	um-mi-ma-ma	
+367	2	usz2	ba-usz2	1	usz2	1	
+368	2	we-tum	
+369	2	za-be-el3	
+370	2	za-gin3	
+371	2	za-mu-ru-um	
+372	2	zi-ba-nim	
+373	2	zi-ri2	
+374	2	{d}nin-bar-re6	
+375	2	{gesz}haszhur	
+376	2	{gesz}kam	
+377	1	AKTUM	
+378	1	BAD	
+379	1	BUR2	
+380	1	DU3	
+381	1	GI	
+382	1	KA-da-ba-an	
+383	1	KA-ku3	
+384	1	KA-la-ba	
+385	1	KA-me-er	
+386	1	KA-su-su	
+387	1	KAS-HU	
+388	1	KISZ	
+389	1	ME-esz18-dar	
+390	1	ME-{d}nansze	
+391	1	ME-{d}tiszpak	
+392	1	MUSZ{ki}	
+393	1	PAP-PAP	
+394	1	SIG7	
+395	1	SIG7-a	
+396	1	SUHUSZ	
+397	1	ZAG	
+398	1	a	
+399	1	a-a-BAD	
+400	1	a-a2-zum	
+401	1	a-bi2-du10	
+402	1	a-bi2-i3-li2	
+403	1	a-bi2-me-ni	
+404	1	a-bi2-ra	
+405	1	a-bi2-tum	
+406	1	a-bi2-za-ki	
+407	1	a-bi2-{d}tiszpak	
+408	1	a-bu-lum	
+409	1	a-bu-na	
+410	1	a-da-ni	
+411	1	a-ga-ga	
+412	1	a-gi-gi	
+413	1	a-ha-ti-ku-ku	
+414	1	a-hi-ba-lik	
+415	1	a-hu-dingir	
+416	1	a-hu-du10	
+417	1	a-hu-si-ra	
+418	1	a-ki-il3-szu	
+419	1	a-li-be-li2	
+420	1	a-li-en-ni	
+421	1	a-li-ku3-babbar{si}	
+422	1	a-li-li-ga	
+423	1	a-li2-en-ni	
+424	1	a-mi-nim	
+425	1	a-mu-ra-tum	
+426	1	a-mur-dingir	
+427	1	a-ri2-ik-di3-in{ki}	
+428	1	a-sza-sza	
+429	1	a-ti-e	
+430	1	a-ti-ti	
+431	1	a-za-za	
+432	1	a-zu-dingir	
+433	1	a-zu-ni	
+434	1	a3-asz2	
+435	1	a3-bi2-ga	
+436	1	a3-mu-kum	
+437	1	a3-ri2-isz	
+438	1	a3-za-ri2-tum	
+439	1	ab-gar-ra	
+440	1	ab-us2-a	
+441	1	ab2-gal	
+442	1	akkil-ni	
+443	1	al	
+444	1	al-la	
+445	1	al-lum	
+446	1	al-zi	
+447	1	ama-{d}inanna	
+448	1	an-gu2	
+449	1	an-na	
+450	1	apin-sze3	
+451	1	ar	
+452	1	ar-i-im	
+453	1	ar-ku-ku	
+454	1	aszgab	aszgab	1	
+455	1	ba	
+456	1	ba-at-ti	
+457	1	ba-ba-az	
+458	1	ba-ba-e-li2	
+459	1	ba-ba-lum	
+460	1	ba-da-ri2-im	
+461	1	ba-hi-ir	
+462	1	ba-lu-kum	
+463	1	ba-ri-um	
+464	1	ba-si-um	
+465	1	ba-szi-um	
+466	1	babbar	
+467	1	bahar	bahar3	1	
+468	1	bala	bala	1	
+469	1	bala-ga	
+470	1	balik	ba-li-ih	1	
+471	1	be-li-ur-sag	
+472	1	be-li2-a-bu3	
+473	1	be-li2-a-zu	
+474	1	be-li2-dan	
+475	1	be-li2-dum-qi2	
+476	1	be-li2-gal-zu	
+477	1	be-li2-il3-la-at	
+478	1	be-li2-isz-ta2-kal2	
+479	1	be-li2-la-ba	
+480	1	be-li2-mu-da	
+481	1	be-li2-na-pa2-asz2-ti	
+482	1	be-li2-nu-ri2	
+483	1	be-li2-sa-du2	
+484	1	be-li2-tu-ri2	
+485	1	be-li2-tu3-kul2	
+486	1	be-li2-za-ki-ir	
+487	1	be-li2-{d}utu{si}	
+488	1	bi-er3-ti-in	
+489	1	bi-is-ki-lum	
+490	1	bi-ra-hu	
+491	1	bi-ti-isz	
+492	1	bi2-ri2-ga	
+493	1	bi2-szu4	
+494	1	bi2-za-tum	
+495	1	bil2-zum	
+496	1	bu-ga	
+497	1	bu-te-te	
+498	1	bu-tu-um-tum	
+499	1	bu3-sza-an-tim	
+500	1	bul5-tim	
+501	1	bur-zi-a	
+502	1	da-ba-an	
+503	1	da-ba-li	
+504	1	da-bu	
+505	1	da-kum	
+506	1	da-ni-a	
+507	1	da-nu-nu	
+508	1	da-ri2-sa	
+509	1	da-sa2-sa2	
+510	1	da-si	
+511	1	da-ti-ti	
+512	1	dab5	i3-dab5	1	
+513	1	dak-ti	
+514	1	dan-nu-nu	
+515	1	dar-ba-a	
+516	1	dar-bi	
+517	1	dar-u-ma	
+518	1	dingir-bala	
+519	1	dingir-e2	
+520	1	dingir-il3-la-zu	
+521	1	dingir-la-la	
+522	1	dingir-mu-da	
+523	1	dingir-palil	
+524	1	dingir-qar	
+525	1	dingir-ra-bi2	
+526	1	dingir-sa-du2	
+527	1	dingir-su-qar	
+528	1	dingir-su-su	
+529	1	dingir-u3-szar	
+530	1	dingir-ur-sag	
+531	1	du	
+532	1	du-du	
+533	1	dud	
+534	1	e-akkil-tim	
+535	1	e-ar-dingir	
+536	1	e-da	
+537	1	e-du-bi2	
+538	1	e-ma-an-esz18-dar	
+539	1	e-ma-ma	
+540	1	e-ma-si-a	
+541	1	e-ru-ru	
+542	1	e-s,e-s,e	
+543	1	e-tu-ra-mi	
+544	1	e-zu-um	
+545	1	e-|GI%GI|-SU	
+546	1	e2-a-diri	
+547	1	e2-dingir	
+548	1	e2-gissu	
+549	1	e2-gu4	
+550	1	e2-munus	
+551	1	e2-{gesz}gu-za-me	
+552	1	e3	e3	1	
+553	1	en-bu	
+554	1	engar	engar-engar	1	
+555	1	er2-a-li2	
+556	1	er2-am-{d}da-gan	
+557	1	er3-e-{d}utu	
+558	1	er3-ki-um	
+559	1	er3-ra-isz-ta2-kal2	
+560	1	er3-ra-ur-sag	
+561	1	er3-su2-ni	
+562	1	erin	
+563	1	esz18-dar	
+564	1	esz18-dar-a-zu	
+565	1	esz18-dar-ba-lik	
+566	1	esz18-dar-e2	
+567	1	esz18-dar-il3-la-at	
+568	1	esz18-dar-isz	
+569	1	esz18-dar-ma-al-ka3-at	
+570	1	esz18-dar-me-ni	
+571	1	esz18-dar-mu-da	
+572	1	esz18-dar-ni-sa	
+573	1	esz18-dar-nu-ri2	
+574	1	esz18-dar-nu-uh-si	
+575	1	esz18-dar-ur-sag	
+576	1	esz2-bara2	
+577	1	esz2-ra	
+578	1	esz3	
+579	1	ezen	
+580	1	ga	
+581	1	ga-NI-tim	
+582	1	ga-ar3	
+583	1	ga-ba-la	
+584	1	ga-ga	
+585	1	ga-li-li	
+586	1	ga-me-ru-um	
+587	1	ga-mi-a-tum	
+588	1	ga-ni-am-me-me	
+589	1	ga-ni-tim	
+590	1	ga-ra-az-ni-isz	
+591	1	ga-tu-tu	
+592	1	ga-zu	
+593	1	ga-zu-a-lum	
+594	1	gal-la-tum	
+595	1	gal-ma-tum	
+596	1	gal-su-su	
+597	1	gam-gam	
+598	1	geme2-kar-ke3	
+599	1	gi-gi	
+600	1	gigir2	
+601	1	gu2-sil-la2	
+602	1	gu5-ti-im	
+603	1	gur-sag-gal2tu-ma-ga	
+604	1	ha-ba-a	
+605	1	ha-di3-i3-li2-isz-su	
+606	1	ha-di3-i3-li2-su	
+607	1	ha-la-am{ki}	
+608	1	ha-lu-ut5szid	
+609	1	ha-lum	
+610	1	ha-si	
+611	1	ha-zi-num2	
+612	1	had2	
+613	1	hu-lu-qa3-um	
+614	1	hu-ma-za	
+615	1	i-ba-li2-isz	
+616	1	i-bi2-dingir	
+617	1	i-da-bi2-i3-li	
+618	1	i-da-ra-ak	
+619	1	i-da-sa	
+620	1	i-din-dingir	
+621	1	i-la-ak-nu-id	
+622	1	i-lu5-lu5	
+623	1	i-mu-ru	
+624	1	i-na	
+625	1	i-nin-num2	
+626	1	i-nin-sa-du2	
+627	1	i-tu-sa	
+628	1	i-tum-be-li2	
+629	1	i-za-mar-{d}tiszpak	
+630	1	i3-bi2-sa	
+631	1	i3-gesz	
+632	1	i3-li2-dum-qi2	
+633	1	i3-li2-nu-uh-si	
+634	1	i3-li2-sukkal	
+635	1	i3-li2-tab-ba	
+636	1	i3-lu-da-nisze	
+637	1	i3-ra2-ra2	
+638	1	i3-za-za	
+639	1	i7	
+640	1	ib-la-i3-tim	
+641	1	ib-ni-dingir	
+642	1	iddin	i-di3-in	1	
+643	1	igi-si4	
+644	1	ih-bu-lu	
+645	1	ihuz	i-hu-uz	1	
+646	1	il2-be-li2	
+647	1	il2-e-um	
+648	1	il8-ha	
+649	1	im-ku-ku	
+650	1	im-ri2-ir	
+651	1	imdud	im-du2-ud	1	
+652	1	imgaga3	
+653	1	ip-ti-ru	
+654	1	ip-ti-ru-um	
+655	1	iq-bi2-saga	
+656	1	iq-bi2-sar	
+657	1	iq-bi2-szar	
+658	1	iq-zum	
+659	1	ir-bi2-a	
+660	1	iri-sag-rig7{ki}	
+661	1	isz-da-na-pa-ra-am	
+662	1	isz-ki-de3	
+663	1	isz-ki-ni-su	
+664	1	isz-ku8-num2	
+665	1	isz-lul-dingir	
+666	1	iszdud	isz-du-du2	1	
+667	1	ka5-a	
+668	1	kab-la-su	
+669	1	kab-ru-ru	
+670	1	kal	
+671	1	kaskal-ki	
+672	1	ki-bir5-da-ba-an	
+673	1	ki-bu-tum	
+674	1	ki-um	
+675	1	ki2-ma	
+676	1	ki2-num2-ba-la	
+677	1	ki2-num2-bala	
+678	1	ki2-num2-u-ba-at	
+679	1	kiszib	
+680	1	ku-ru-za	
+681	1	ku-ru-zu	
+682	1	ku3	
+683	1	ku3-dim2	
+684	1	ku6	
+685	1	kunga22	
+686	1	kur-ra	
+687	1	la	
+688	1	la-ba-ba	
+689	1	la-la	
+690	1	la-me-u3	
+691	1	la-mu-sa	
+692	1	la-wi-ip-tum	
+693	1	la-zi-mu-um	
+694	1	li-ha-bi-it	
+695	1	li-hu-uz	
+696	1	li-li	
+697	1	li-mu-um	
+698	1	lu-ga-tim	
+699	1	lu-me-zi	
+700	1	lu2-bappir	
+701	1	lu2-sa6	
+702	1	lugal-ezem	
+703	1	ma-ah-ri2	
+704	1	ma-an-ki-im-lu-usz	
+705	1	ma-ar-za-ma	
+706	1	ma-gir-ri-im	
+707	1	ma-ha-ar	
+708	1	ma-hi-ir-da	
+709	1	ma-hi-ru	
+710	1	ma-ki-si-im	
+711	1	ma-ma-a	
+712	1	ma-ma-isz-ta2-kal2	
+713	1	ma-ma-sa-du2	
+714	1	ma-ra-isz	
+715	1	ma-ri2{ki}	
+716	1	ma-tum-i-te	
+717	1	mah-ri-su-nu	
+718	1	man-an-sa-nin-su	
+719	1	man-na	
+720	1	mar-tu	mar-tu	1	
+721	1	masz-e-pa3-da{ki}-ta	
+722	1	maszkim	maszkim	1	
+723	1	me	
+724	1	me-am-mi	
+725	1	me-er-tum	
+726	1	me-er-tum-ga-ga	
+727	1	me-gir-dingir-dingir	
+728	1	me-ir-tum	
+729	1	me-na-a-mu	
+730	1	mi-la-su	
+731	1	mi2-ma-sa	
+732	1	mim-ma-sa	
+733	1	min	
+734	1	mir	
+735	1	mu-lu-usz-tum	
+736	1	mu-na-ma-tum	
+737	1	mu-su-tim	
+738	1	mu-usz-tum	
+739	1	mu-za-zu	
+740	1	muhaldim	muhaldim	1	
+741	1	munus-me	
+742	1	musz3	
+743	1	na-ah-ba-ar	
+744	1	na-ah-ba-ru-um	
+745	1	na-am-si-tum	
+746	1	na-as,-ru-um	
+747	1	na-asz2-pa2-ru-um	
+748	1	na-ba-ni-im	
+749	1	na-ha-si11-si11	
+750	1	na-na-ri	
+751	1	na-ni	
+752	1	nagar	nagar	1	
+753	1	nam-ha-szum	
+754	1	naram-suen	{d}na-ra-am-{d}suen	1	
+755	1	ni-e-ra-ab	
+756	1	ni-is,-ru-um	
+757	1	ni-is-qam2	
+758	1	ni-nu	
+759	1	ni-se11-e-ni-sa	
+760	1	nig2-gu7-ta	
+761	1	nig2-la2-du8	
+762	1	nig2-sa10	nig2-sa10	1	
+763	1	nig2-tug2	
+764	1	nimgir	
+765	1	nin-da	
+766	1	nu-kiri6	
+767	1	nu-ru-am	
+768	1	nunuz	
+769	1	pa-pa	
+770	1	pu-ti	
+771	1	pu3-ma-uz3	
+772	1	pu3-su-du10	
+773	1	pu3-su-ni	
+774	1	pu3-za-za	
+775	1	pu3-{d}a-bi	
+776	1	pu3-{d}isz-ha-ra	
+777	1	qa2-at-num	
+778	1	qar-i3-li	
+779	1	qi2-pum	
+780	1	qi3-szum	
+781	1	qir-ba-ti	
+782	1	ra-ap-szum	
+783	1	ra-ba-tum	
+784	1	ra-bi2-dingir	
+785	1	ra-bu3-ga-ra-asz2	
+786	1	ri2-ig-mu-usz-al-su	
+787	1	s,a-lim-tum	
+788	1	sa-am-me	
+789	1	sa-am-na	
+790	1	sa-at-be-el3	
+791	1	sa-gi-gi	
+792	1	sa-li-isz-tim	
+793	1	sa-ma-nim	
+794	1	sa-pil2-tim	
+795	1	sa-pu-ul-ti	
+796	1	sa-ru-usz	
+797	1	sa12-du5	sa12-du5	1	
+798	1	sa2-ri2-im	
+799	1	sag	
+800	1	sag-i3-li2	
+801	1	saga	
+802	1	sagi	sagi	1	
+803	1	sanga	sanga	1	
+804	1	sar-ru-NE	
+805	1	si-a-sa-at	
+806	1	si-be-la	
+807	1	si-da-tim	
+808	1	si-ga	
+809	1	si-la-ba	
+810	1	si-ma-zu	
+811	1	si-mu	
+812	1	si-sa2	si-sa2	1	
+813	1	si-um-mi	
+814	1	sibszum	si-ib-su-um	1	
+815	1	siki-gan-ta	
+816	1	simurrim	si-mu-ur4-ri2-im{ki}	1	
+817	1	su-ba-lu-lum	
+818	1	su-ba-ri2-u3	
+819	1	su-en-ni	
+820	1	su-me-lum	
+821	1	su-mu-tar	
+822	1	su-ni-isz-ta2-kal2	
+823	1	su-ni-tum	
+824	1	su-ru-usz	
+825	1	su-ru-usz-gi	
+826	1	su-ur-ki	
+827	1	su4-bi2-tum	
+828	1	su4-ma-dingir	
+829	1	sur-ra	
+830	1	sz-ut	
+831	1	sza-am-ga-num2	
+832	1	sza-an	
+833	1	sza-mi-um	
+834	1	sza-pu-ul-ti	
+835	1	sza-qi2-be-li2	
+836	1	sza3-ge	
+837	1	szabra-su-nu	
+838	1	szar-me-ni	
+839	1	szar-ru-ru	
+840	1	szar-ru-tu3-kul2	
+841	1	sze-il8-ha	
+842	1	sze-ta	
+843	1	szi-bir5-ra-za	
+844	1	szi-ib-szi-im	
+845	1	szu-IDIM	
+846	1	szu-be-li2	
+847	1	szu-i3-li2-szu	
+848	1	szu-il-a	
+849	1	szu-isz-ha-ra	
+850	1	szu-li-ip-tim	
+851	1	szu-na-ag-bum	
+852	1	szu-nan-na	
+853	1	szu-pu3-ru-im	
+854	1	szu-tab-ba	
+855	1	szu-te	
+856	1	szu-ti	
+857	1	szu-ti-bar	
+858	1	szu-{d}gul-la	
+859	1	szum-ma-sa	
+860	1	szusz3	
+861	1	ta-asz2-gi-tum	
+862	1	ta2-asz2-lul-tum	
+863	1	ta2-asz2-me-tum	
+864	1	ta2-ku8-un	
+865	1	ta2-pu3-ra	
+866	1	tab	
+867	1	tak-li-mu-um	
+868	1	tap-hur-tum	
+869	1	te-szi-tum	
+870	1	ti-ir-ha-dam	
+871	1	ti-ir-ha-ti	
+872	1	ti-ra-ba-ni-um	
+873	1	ti-ru	
+874	1	ti-ru-um	
+875	1	ti-ti	
+876	1	tir5-ha-tum	
+877	1	tu-a	
+878	1	tu-ba-ni	
+879	1	tu-da-na-ap-szum	
+880	1	tu-na-ak-si-nim	
+881	1	tu-na-ak-szi-num	
+882	1	tu-ru-um	
+883	1	tu-ti-da	
+884	1	tu-u3-bi-lu-si	
+885	1	tug2-kad4	
+886	1	tutub	tu-tu-ub{ki}	1	
+887	1	u-bar-ru-um	
+888	1	u-ru	
+889	1	u2-KA-ma-tum	
+890	1	u2-bi-la	
+891	1	u2-da-ah	
+892	1	u2-hub2	
+893	1	u2-li-tum	
+894	1	u2-ma-ma	
+895	1	u2-s,u-ur-ba-su	
+896	1	u2-tur2-ma	
+897	1	u3-da	
+898	1	u3-la	
+899	1	u3-u3	
+900	1	ub-NI-tum	
+901	1	ugula	ugula	1	
+902	1	um-me-da	
+903	1	um-mi-a	
+904	1	um-mu-mu	
+905	1	um-te-bu	
+906	1	unu3-ta	
+907	1	unu{ki}	unu{ki}	1	
+908	1	ur-ezem	
+909	1	ur-kesz3{ki}	
+910	1	ur-{d}a-bi	
+911	1	us2	
+912	1	us2-sa	
+913	1	usz	
+914	1	usz-bar	usz-bar	1	
+915	1	uszum	
+916	1	wa-ba-ni-um	
+917	1	warkim	wa-ar-ki-im	1	
+918	1	we-er-tum	
+919	1	za-ba-zi-ri2	
+920	1	za-bi	
+921	1	za-bi-bi	
+922	1	za-bu-ka3-num2	
+923	1	za-u3-	
+924	1	za-za-ru-um	
+925	1	za3	
+926	1	za3-u	
+927	1	zi-bi2-lum	
+928	1	zi-bi2-nu	
+929	1	zi-im-tum	
+930	1	zi-kar3-su	
+931	1	zi-li	
+932	1	zi-mu-dar	
+933	1	zi-nu	
+934	1	zu-zu-ul	
+935	1	{d}	
+936	1	{d}KA-me-er	
+937	1	{d}en-lil2-ka	
+938	1	{d}er3-ra-qar	
+939	1	{d}iszkur-sa-du2	
+940	1	{d}nin-edin	
+941	1	{d}suen-kal	
+942	1	{d}tiszpak	
+943	1	{d}utu-il3-la-at	
+944	1	{gesz}al-sag	
+945	1	{gesz}bi-ra-da-an	
+946	1	{gesz}mar	
+947	1	{gesz}nu2	
+948	1	{gesz}tukul	
+949	1	{gesz}u3	
+950	1	{gesz}umbin	
+951	1	{gesz}zu2	
+952	1	{gesz}|KAxKID2|	
+953	1	{kusz}suhub2	
+954	1	|BAD3.AN|{ki}	
+955	1	|PU3.SZA|-a-bi	
+956	1	|PU3.SZA|-e2-a	
+957	1	|PU3.SZA|-er3-ra	
+958	1	|PU3.SZA|-esz18-dar	
+959	1	|PU3.SZA|-ka2-ka2	
+960	1	|PU3.SZA|-ru-rum	
+961	1	|PU3.SZA|-{d}a-bi	
+962	1	|SZIMxNIG2|	
+963	1	|SZU+LAGAB|sze	
